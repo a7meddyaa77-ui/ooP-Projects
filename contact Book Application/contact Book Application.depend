@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1777107561 source:c:\users\administrator\onedrive\documents\task\contact book application\main.cpp
+	<iostream>
+	<Contact.h>
+	<contactBook.h>
+
+1777108987 c:\users\administrator\onedrive\documents\task\contact book application\include\contact.h
+	<PhoneNumber.h>
+	<iostream>
+
+1777105686 c:\users\administrator\onedrive\documents\task\contact book application\include\phonenumber.h
+	<iostream>
+
+1777107520 c:\users\administrator\onedrive\documents\task\contact book application\include\contactbook.h
+	<iostream>
+	<PhoneNumber.h>
+	<Contact.h>
+
